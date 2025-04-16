@@ -3,13 +3,16 @@ A Power BI project analyzing customer behavior, purchase patterns, and retention
 
 **Key objectives:**  
 -Identify high-value customer segments based on Lifetime Value (LTV)
+
 -Evaluate the impact of retention strategies on churn probability
+
 -Analyze purchasing behavior across time, regions, and product categories
+
 -Recommend data-driven actions to improve retention and campaign performance  
 
 ---
 
-## 🧾 Data Sources  
+##  Data Sources  
 
 | Field | Description |
 |-------|-------------|
@@ -40,7 +43,7 @@ A Power BI project analyzing customer behavior, purchase patterns, and retention
 
 ---
 
-## 📊 Results and Visuals
+##  Results and Visuals
 
 ### 🔹 Key Insights
 - **Europe and Electronics** contributed the most to overall customer value.
@@ -50,7 +53,7 @@ A Power BI project analyzing customer behavior, purchase patterns, and retention
 - **Seasonal trends reveal October and Summer as peak sales periods**, especially in the **Evening**.
 - Retention strategy performance is mostly classified as **Needs Improvement** or **At Risk**.
 
-### 📸 Sample Visuals
+###  Sample Visuals
 
 #### Overview Dashboard  
 ![Screenshot (34)](https://github.com/user-attachments/assets/212aa003-eeb8-4ce7-90be-6ea5e9399bf0)
@@ -70,7 +73,7 @@ A Power BI project analyzing customer behavior, purchase patterns, and retention
 
 ---
 
-## 🙌 Acknowledgments  
+##  Acknowledgments  
 
 Special thanks to:  
 - **Imran Ali Shah** for publishing the dataset on Kaggle  
