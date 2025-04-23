@@ -85,5 +85,6 @@ Special thanks to:
 ## 📁 Files Included  
 - `Sales&CustomerInsights.pbix` – Power BI Report  
 - `Sales&CustomerInsights.pdf` – Report Visuals  
-- `Executive Summary.pdf` – Key Business Insights  
+- `Executive Summary.pdf` – Key Business Insights
+- `SALES AND CUSTOMER INSIGHTS REPORT.ppt`-Presentation Report
 - `README.md` – This documentation file  
